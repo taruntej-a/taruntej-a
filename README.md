@@ -34,6 +34,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=taruntej-a&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=taruntej-a&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=taruntej-a&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=taruntej-a&theme=dark" />
+</p>
+
 <br>
 
 ## 🌐 Connect with me
