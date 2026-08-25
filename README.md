@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tarun Teja</h1>
 
-Currently Maintaining the the open-source Terraform AWS Provider at HashiCorp, an IBM company.
+Currently Maintaining the the Open Source Terraform AWS Provider at HashiCorp, an IBM company.
 <br>
 ## GitHub Stats
 
